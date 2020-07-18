@@ -1,0 +1,16 @@
+<doctype html>
+<html>
+<head>
+<title>lists</title>
+</head>
+<body>
+An ordered list :
+<ol>
+<li>mom</li>
+<li>me</li>
+<li>dad</li>
+<li>sis</li>
+<li>grandfather</li>
+</ol>
+</body>
+</html>
